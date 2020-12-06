@@ -1,15 +1,12 @@
-# Angular-Spring Framework Test
+# Angular Framework Test
 
-### **This is a test using the framework Spring with Angular.**
+### **This is a test using the framework Angular.**
 
 @Sin-Jeva-Team/Angular How are you guys?
 
 ## Built With
 
 * [Angular](https://angular.io/docs) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [Spring](https://docs.spring.io/spring-framework/docs/5.0.14.RELEASE/spring-framework-reference/) - Other framework used.
-
 
 ## Authors
 
